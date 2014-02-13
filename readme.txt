@@ -16,7 +16,7 @@ We've got tired with bbPress losing its manually uploaded translations files whe
 
 Install like you would with any other WordPress plugin
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload the bbPress-NL.zip to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
