@@ -2,8 +2,8 @@
 Contributors: defries, forsitemedia
 Tags: bbPress, Nederlands
 Requires at least: 3.7.0
-Tested up to: 3.8.1
-Stable tag: 2.5.0
+Tested up to: 4.0
+Stable tag: 2.5.1
 License: GPLv2 or later
 
 This plugin will provide the Dutch translation for your bbPress installation.
@@ -28,6 +28,9 @@ Glad you asked. It's provided graciously by anyone and everyone who contributes 
 
 
 == Changelog ==
+
+= 2.5.1 =
+* Possibly last update for this plugin since i18n updates should roll out from translate.wordpress.org site, but I've added a few small updates to the translation.
 
 = 2.5.0 =
 * First public version. Version number matches the bbPress plugin version as much as  possible.
