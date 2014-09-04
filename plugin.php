@@ -8,7 +8,7 @@
 * Plugin URI: http://remkusdevries.com/plugins/bbpress-nl/
 * Description: This plugin will translate bbPress in Dutch.
 * Author: Remkus de Vries
-* Version: 2.5.0
+* Version: 2.5.1
 * Author URI: http://remkusdevries.com/
 * License: GPLv2
 * Copyright (C) 2014 Remkus de Vries, and each individual languages' contributors from http://translate.wordpress.org/projects/bbpress
